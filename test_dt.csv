@@ -1,0 +1,15 @@
+Rainfall,nominal Temp,Windy,GrowCrop
+heavy,hot,FALSE,no
+heavy,cool,TRUE,no
+heavy,mild,TRUE,no
+heavy,hot,FALSE,no
+moderate,mild,FALSE,yes
+moderate,cool,FALSE,yes
+moderate,cool,TRUE,no
+moderate,mild,FALSE,yes
+moderate,mild,TRUE,no
+low,hot,FALSE,yes
+low,hot,TRUE,no
+low,mild,FALSE,no
+low,cool,FALSE,yes
+low,mild,TRUE,yes

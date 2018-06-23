@@ -1,0 +1,15 @@
+rainfall,temperature,humidity,windy,Crop
+low,hot,high,no,no
+low,hot,high,yes,no
+heavy,hot,high,no,yes
+moderate,mild,high,no,yes
+moderate,cool,normal,no,yes
+moderate,cool,normal,yes,no
+heavy,cool,normal,yes,yes
+low,mild,high,no,no
+low,cool,normal,no,yes
+moderate,mild,normal,no,yes
+low,mild,normal,yes,yes
+heavy,mild,high,yes,yes
+heavy,hot,normal,no,yes
+moderate,mild,high,yes,no
